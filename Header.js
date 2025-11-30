@@ -3,7 +3,7 @@ import { View, Text } from 'react-native';
 
 const Header = () => (
       <View>
-            <Text>Заголовок приложения</Text>
+            <Text>Zadanie git</Text>
       </View>
 );
 
